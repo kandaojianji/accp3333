@@ -14,7 +14,7 @@ import javax.annotation.Resource;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+     //薛尊恒
 @Controller
 public class Access_control_deviceController {
     @Resource
